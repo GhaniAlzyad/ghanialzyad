@@ -1,6 +1,8 @@
-## Hello World, I'm Ghani Al-Zyad (EVOLT)👋
-
 ![ghanialzyad](img/github-header-banner.png)
+
+## skill
+
+<img src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 <!--
 **GhaniAlzyad/ghanialzyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
