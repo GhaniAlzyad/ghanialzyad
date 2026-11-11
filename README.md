@@ -1,8 +1,7 @@
 ![ghanialzyad](img/github-header-banner.png)
 # 💫 About Me:
 
-### Halo, saya [Nama Anda] 👋<br><br>> **Guru Matematika, Koding & AI (Jenjang MA) | Data Analyst Enthusiast | Full-Stack Developer Learner**<br><br>Menjembatani logika matematika, wawasan berbasis data, dan pengembangan web modern untuk menciptakan solusi digital yang berdampak.<br><br>* **Backend & Scripting:** Python, Django, Flask, FastAPI<br>* **Frontend & Styling:** Next.js, React, Vite, Tailwind CSS<br>* **Database:** MySQL, SQLite<br>* **Data & Visualisasi:** Google Colab, Looker Studio<br>* **Editor & Terminal:** Sublime Text 4, Git Bash<br><br>📫 **Terhubung dengan saya:** [LinkedIn](https://id.linkedin.com/in/ghanial-zyad/en) • [GitHub](https://github.com/GhaniAlzyad) • [Instagram](https://www.instagram.com/ghanyhahaa/)<br>
-
+### Halo, saya Ghani Al-Zyad 👋<br><br>> **Guru Matematika, Koding & AI (Jenjang MA) | Data Analyst Enthusiast | Full-Stack Developer Learner**<br><br>Menjembatani logika matematika, wawasan berbasis data, dan pengembangan web modern untuk menciptakan solusi digital yang berdampak.<br><br>* **Backend & Scripting:** Python, PHP, Django, Flask, FastAPI, Laravel<br>* **Frontend & Styling:** Next.js, React, Vite, Tailwind CSS<br>* **Database:** MySQL, SQLite<br>* **Data & Visualisasi:** Google Colab, Looker Studio<br>* **Editor & Terminal:** Sublime Text 4, Git Bash<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ghanyhahaa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://id.linkedin.com/in/ghanial-zyad/en) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghaniazyad@gmail.com) 
